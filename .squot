@@ -1,3 +1,4 @@
 OrderedDictionary {
+	'45Deprecated-Installer.package' : #SquotCypressCodeSerializer,
 	'test-squot.package' : #SquotCypressCodeSerializer
 }
