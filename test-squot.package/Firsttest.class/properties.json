@@ -1,0 +1,14 @@
+{
+	"category" : "test-squot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Firsttest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
