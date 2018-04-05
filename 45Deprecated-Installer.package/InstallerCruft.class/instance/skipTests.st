@@ -1,3 +1,0 @@
-mantis
-skipTests
-
